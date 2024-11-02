@@ -33,8 +33,8 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.requires_arc = true
 
-  s.source_files = 'CarouselSwipeView/Classes/**/*'
-  s.dependency 'Kingfisher', '4.1.0'
+  s.source_files = 'CarouselSwipeView/**/*'
+  s.dependency 'Kingfisher'
   
   # s.resource_bundles = {
   #   'CarouselSwipeView' => ['CarouselSwipeView/Assets/*.png']
