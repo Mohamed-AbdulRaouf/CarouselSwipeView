@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CarouselSwipeView'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'A Carousel Swipe is a design pattern commonly used in mobile apps.'
 
 # This description is used to generate tags and improve search results.
