@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CarouselSwipeView_Example' do
+  pod 'CarouselSwipeView', :path => '../'
+
+  target 'CarouselSwipeView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
