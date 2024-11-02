@@ -60,7 +60,7 @@ public class CarouselSwipeViewManager: UIView, UIScrollViewDelegate {
         initWithPageControl()
         initWithGestureRecognizer()
         initWithCloseBttton()
-        initWithAdsLabel()
+//        initWithAdsLabel()
         initWithOrderNowBttton()
         setNeedsDisplay()
     }
@@ -72,7 +72,7 @@ public class CarouselSwipeViewManager: UIView, UIScrollViewDelegate {
         setLayerViewFrame()
         setLabelFrame()
         initWithCloseBttton()
-        initWithAdsLabel()
+//        initWithAdsLabel()
         initWithOrderNowBttton()
     }
     
@@ -86,7 +86,7 @@ public class CarouselSwipeViewManager: UIView, UIScrollViewDelegate {
         initWithPageControl()
         initWithGestureRecognizer()
         initWithCloseBttton()
-        initWithAdsLabel()
+//        initWithAdsLabel()
         initWithOrderNowBttton()
         setNeedsDisplay()
     }

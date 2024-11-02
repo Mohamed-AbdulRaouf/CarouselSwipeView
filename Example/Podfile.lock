@@ -1,5 +1,5 @@
 PODS:
-  - CarouselSwipeView (1.0.2):
+  - CarouselSwipeView (1.0.4):
     - Kingfisher
   - Kingfisher (4.1.0)
 
@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CarouselSwipeView: 4231c21195a5f39e7a5a9d17ad643a3cd771f3b5
+  CarouselSwipeView: 3c852f9038c9753f2f8d678f83a9dfd046dafad1
   Kingfisher: f14df8cbe576bf55f211fa589e9869bceb4ea87d
 
 PODFILE CHECKSUM: 904cc4686d0019baa4adecfda85076990fa1313d
