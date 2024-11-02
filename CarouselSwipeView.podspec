@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   A Carousel Swipe is a design pattern commonly used in mobile apps and websites to showcase a series of images, cards, or content panels that users can scroll or swipe through horizontally or vertically. It’s a popular way to present content in an interactive, visually engaging format that saves space and gives users more control over what they see.
                        DESC
 
-  s.homepage         = 'https://github.com/mohamed.a.raouf@icloud.com/CarouselSwipeView'
+  s.homepage         = 'https://github.com/Mohamed-AbdulRaouf/CarouselSwipeView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'mohamed.a.raouf@icloud.com' => 'mohamed.a.raouf@icloud.com' }
-  s.source           = { :git => 'https://github.com/mohamed.a.raouf@icloud.com/CarouselSwipeView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Mohamed-AbdulRaouf/CarouselSwipeView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.0'
